@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstandart=self.webpackChunkstandart||[]).push([[526],{9526:(M,d,o)=>{o.r(d),o.d(d,{OrdemServicoModule:()=>l});var n=o(4666),e=o(9706),t=o(4466),a=o(2560);const u=[];let l=(()=>{class r{}return r.\u0275fac=function(E){return new(E||r)},r.\u0275mod=a.oAB({type:r}),r.\u0275inj=a.cJS({imports:[n.ez,e.Bz.forChild(u),t.m]}),r})()}}]);
+//# sourceMappingURL=526.3557368156e59e30.js.map
